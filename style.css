@@ -1,0 +1,31 @@
+@font-face {
+    font-family: "San Francisco";
+    font-weight: 400;
+    src: url("https://applesocial.s3.amazonaws.com/assets/styles/fonts/sanfrancisco/sanfranciscodisplay-regular-webfont.woff");
+}
+
+*{
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    scroll-behavior: smooth;
+}
+.body{
+    background-color: rgb(0, 0, 0);
+    padding: 190px 100px;
+}
+h1{
+    color: antiquewhite;
+    letter-spacing: -1px;
+    user-select: none;
+    font-weight: 600;
+    font-size: 3em;
+    line-height: 
+}
+p{
+    padding: 50px;
+    color: rgb(230, 184, 126);
+    user-select: none;
+    
+}
